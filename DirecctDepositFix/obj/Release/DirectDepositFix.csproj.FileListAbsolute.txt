@@ -1,0 +1,13 @@
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\DirecctDepositFix.exe.config
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\DirecctDepositFix.exe
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\DirecctDepositFix.pdb
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\AppTools.dll
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\Microsoft.Practices.Unity.dll
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\AppTools.pdb
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\obj\Release\DirecctDepositFix.exe
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\obj\Release\DirecctDepositFix.pdb
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Release\Microsoft.Practices.Unity.xml
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\obj\Release\DirectDepositFix.csprojResolveAssemblyReference.cache

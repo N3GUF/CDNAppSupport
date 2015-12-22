@@ -1,0 +1,7 @@
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\Debug\PPOLMorningChecklist.exe
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\Debug\PPOLMorningChecklist.pdb
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\Debug\AppTools.dll
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\Debug\AppTools.pdb
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\obj\Debug\PPOLMorningChecklist.exe
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\obj\Debug\PPOLMorningChecklist.pdb
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\obj\Debug\PPOLMorningChecklist.csprojResolveAssemblyReference.cache

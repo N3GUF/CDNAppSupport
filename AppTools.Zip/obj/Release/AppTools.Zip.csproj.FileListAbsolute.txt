@@ -1,0 +1,26 @@
+C:\Users\dbernhardy\Documents\Visual Studio 2010\Projects\AppTools\AppTools.Zip\bin\Release\AppTools.Zip.dll
+C:\Users\dbernhardy\Documents\Visual Studio 2010\Projects\AppTools\AppTools.Zip\bin\Release\AppTools.Zip.pdb
+C:\Users\dbernhardy\Documents\Visual Studio 2010\Projects\AppTools\AppTools.Zip\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\dbernhardy\Documents\Visual Studio 2010\Projects\AppTools\AppTools.Zip\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dbernhardy\Documents\Visual Studio 2010\Projects\AppTools\AppTools.Zip\obj\Release\AppTools.Zip.dll
+C:\Users\dbernhardy\Documents\Visual Studio 2010\Projects\AppTools\AppTools.Zip\obj\Release\AppTools.Zip.pdb
+C:\Users\dbernhardy\Documents\Visual Studio 2010\IFP Team Projects\Utilities\AppTools\AppTools.Zip\bin\Release\AppTools.Zip.dll
+C:\Users\dbernhardy\Documents\Visual Studio 2010\IFP Team Projects\Utilities\AppTools\AppTools.Zip\bin\Release\AppTools.Zip.pdb
+C:\Users\dbernhardy\Documents\Visual Studio 2010\IFP Team Projects\Utilities\AppTools\AppTools.Zip\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dbernhardy\Documents\Visual Studio 2010\IFP Team Projects\Utilities\AppTools\AppTools.Zip\obj\Release\AppTools.Zip.dll
+C:\Users\dbernhardy\Documents\Visual Studio 2010\IFP Team Projects\Utilities\AppTools\AppTools.Zip\obj\Release\AppTools.Zip.pdb
+C:\Users\dbernhardy\Documents\Visual Studio 2010\IFP Team Projects\Utilities\AppTools\AppTools.Zip\bin\Release\icsharpcode.sharpziplib.dll
+C:\Users\dbernhardy\Documents\IFP Team Projects\Utilities\AppTools\AppTools.Zip\bin\Release\AppTools.Zip.dll
+C:\Users\dbernhardy\Documents\IFP Team Projects\Utilities\AppTools\AppTools.Zip\bin\Release\AppTools.Zip.pdb
+C:\Users\dbernhardy\Documents\IFP Team Projects\Utilities\AppTools\AppTools.Zip\bin\Release\icsharpcode.sharpziplib.dll
+C:\Users\dbernhardy\Documents\IFP Team Projects\Utilities\AppTools\AppTools.Zip\obj\Release\AppTools.Zip.csprojResolveAssemblyReference.cache
+C:\Users\dbernhardy\Documents\IFP Team Projects\Utilities\AppTools\AppTools.Zip\obj\Release\AppTools.Zip.dll
+C:\Users\dbernhardy\Documents\IFP Team Projects\Utilities\AppTools\AppTools.Zip\obj\Release\AppTools.Zip.pdb
+C:\Workspaces\CDNAppSupport\AppTools.Zip\bin\Release\AppTools.Zip.dll
+C:\Workspaces\CDNAppSupport\AppTools.Zip\bin\Release\AppTools.Zip.pdb
+C:\Workspaces\CDNAppSupport\AppTools.Zip\obj\Release\AppTools.Zip.dll
+C:\Workspaces\CDNAppSupport\AppTools.Zip\obj\Release\AppTools.Zip.pdb
+C:\Workspaces\CDNAppSupport\AppTools.Zip\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Workspaces\CDNAppSupport\AppTools.Zip\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Workspaces\CDNAppSupport\AppTools.Zip\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Workspaces\CDNAppSupport\AppTools.Zip\obj\Release\AppTools.Zip.csprojResolveAssemblyReference.cache

@@ -1,0 +1,45 @@
+12/04/2014 07:26:56 AM Info    : Starting PPOL Morning Checklist...
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 1: Checking for Daily Files
+12/04/2014 07:26:56 AM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+12/04/2014 07:26:56 AM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+12/04/2014 07:26:56 AM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+12/04/2014 07:26:56 AM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 2: Checking for Files in Hold
+12/04/2014 07:26:56 AM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+12/04/2014 07:26:56 AM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+12/04/2014 07:26:56 AM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+12/04/2014 07:26:56 AM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+12/04/2014 07:26:56 AM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	60300 min. old
+12/04/2014 07:26:56 AM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	60300 min. old
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+12/04/2014 07:26:56 AM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+12/04/2014 07:26:56 AM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	60300 min. old
+12/04/2014 07:26:56 AM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	60300 min. old
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+12/04/2014 07:26:56 AM Info    : Checking for files older than 1 hour(s).
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : *** Step 5 Complete.  No problems found. ***
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 7: Checking for Current files in processed
+12/04/2014 07:26:56 AM Info    : *** Step 7 Complete.  No problems found. ***
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 8: Checking for Current IPM files
+12/04/2014 07:26:56 AM Info    : *** Step 8 Complete.  No problems found. ***
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : 
+12/04/2014 07:26:56 AM Info    : Starting Step 9: Checking for Current IPM files
+12/04/2014 07:26:56 AM Info    : *** Step 9 Complete.  No problems found. ***
+12/04/2014 07:26:56 AM Info    : Finished PPOL Morning Checklist.

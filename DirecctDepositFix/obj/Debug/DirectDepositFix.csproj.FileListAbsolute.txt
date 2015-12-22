@@ -1,0 +1,12 @@
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\DirecctDepositFix.exe.config
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\DirecctDepositFix.exe
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\DirecctDepositFix.pdb
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\AppTools.dll
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\AppTools.pdb
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\obj\Debug\DirectDepositFix.csprojResolveAssemblyReference.cache
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\obj\Debug\DirecctDepositFix.exe
+C:\Workspaces\CDNAppSupport\DirecctDepositFix\obj\Debug\DirecctDepositFix.pdb

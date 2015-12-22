@@ -1,0 +1,33 @@
+02/10/2015 05:38:15 PM Info    : Starting PPOL Morning Checklist...
+02/10/2015 05:38:15 PM Info    : 
+02/10/2015 05:38:15 PM Info    : 
+02/10/2015 05:38:15 PM Info    : Starting Step 1: Checking for Daily Files
+02/10/2015 05:38:15 PM Warning : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/10/2015 05:38:15 PM Warning : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/10/2015 05:38:15 PM Warning : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/10/2015 05:38:15 PM Warning : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/10/2015 05:38:15 PM Info    : 
+02/10/2015 05:38:15 PM Info    : 
+02/10/2015 05:38:15 PM Info    : Starting Step 2: Checking for Files in Hold
+02/10/2015 05:40:06 PM Info    : Starting PPOL Morning Checklist...
+02/10/2015 05:40:06 PM Info    : 
+02/10/2015 05:40:06 PM Info    : 
+02/10/2015 05:40:06 PM Info    : Starting Step 1: Checking for Daily Files
+02/10/2015 05:40:06 PM Warning : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/10/2015 05:40:06 PM Warning : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/10/2015 05:40:06 PM Warning : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/10/2015 05:40:06 PM Warning : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/10/2015 05:40:06 PM Info    : 
+02/10/2015 05:40:06 PM Info    : 
+02/10/2015 05:40:06 PM Info    : Starting Step 2: Checking for Files in Hold
+02/10/2015 05:44:18 PM Info    : Starting PPOL Morning Checklist...
+02/10/2015 05:44:18 PM Info    : 
+02/10/2015 05:44:18 PM Info    : 
+02/10/2015 05:44:18 PM Info    : Starting Step 1: Checking for Daily Files
+02/10/2015 05:44:19 PM Warning : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/10/2015 05:44:19 PM Warning : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/10/2015 05:44:19 PM Warning : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/10/2015 05:44:19 PM Warning : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/10/2015 05:44:19 PM Info    : 
+02/10/2015 05:44:19 PM Info    : 
+02/10/2015 05:44:19 PM Info    : Starting Step 2: Checking for Files in Hold

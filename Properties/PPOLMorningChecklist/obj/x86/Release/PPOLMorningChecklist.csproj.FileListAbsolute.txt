@@ -1,0 +1,6 @@
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\x86\Release\PPOLMorningChecklist.exe
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\x86\Release\PPOLMorningChecklist.pdb
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\x86\Release\AppTools.dll
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\bin\x86\Release\AppTools.pdb
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\obj\x86\Release\PPOLMorningChecklist.exe
+C:\Workspaces\CDNAppSupport\PPOLMorningChecklist\obj\x86\Release\PPOLMorningChecklist.pdb

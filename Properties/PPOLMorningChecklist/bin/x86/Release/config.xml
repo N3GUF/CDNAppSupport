@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChecklistSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LogPath>C:\Logs\PPOLMorningCheclist</LogPath>
+  <LoggingSeverityLevel>Info</LoggingSeverityLevel>
+  <CleanupInProcessFolderSettings>
+    <InProcessDir>C:\PPOL\inprocess</InProcessDir>
+    <ProcessedDir>C:\PPOL\processed</ProcessedDir>
+    <ProcessedBackupDir>C:\PPOL\inprocess\backup</ProcessedBackupDir>
+    <CheckFilesOlderThanHours>1</CheckFilesOlderThanHours>
+  </CleanupInProcessFolderSettings>
+</ChecklistSettings>

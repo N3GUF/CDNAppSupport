@@ -1,0 +1,83 @@
+11/19/2014 06:08:16 PM Info    : Starting PPOL Morning Checklist...
+11/19/2014 06:08:59 PM Info    : 
+11/19/2014 06:08:59 PM Info    : 
+11/19/2014 06:08:59 PM Info    : Starting Step 1: Checking for Daily Files
+11/19/2014 06:08:59 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+11/19/2014 06:08:59 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+11/19/2014 06:08:59 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+11/19/2014 06:08:59 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+11/19/2014 06:09:48 PM Info    : 
+11/19/2014 06:09:48 PM Info    : 
+11/19/2014 06:09:48 PM Info    : Starting Step 2: Checking for Files in Hold
+11/19/2014 06:13:08 PM Info    : Starting PPOL Morning Checklist...
+11/19/2014 06:13:15 PM Info    : 
+11/19/2014 06:13:15 PM Info    : 
+11/19/2014 06:13:15 PM Info    : Starting Step 1: Checking for Daily Files
+11/19/2014 06:13:15 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+11/19/2014 06:13:15 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+11/19/2014 06:13:15 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+11/19/2014 06:13:15 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+11/19/2014 06:13:19 PM Info    : 
+11/19/2014 06:13:20 PM Info    : 
+11/19/2014 06:13:20 PM Info    : Starting Step 2: Checking for Files in Hold
+11/19/2014 06:15:10 PM Info    : Starting PPOL Morning Checklist...
+11/19/2014 06:15:10 PM Info    : 
+11/19/2014 06:15:10 PM Info    : 
+11/19/2014 06:15:10 PM Info    : Starting Step 1: Checking for Daily Files
+11/19/2014 06:15:10 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+11/19/2014 06:15:10 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+11/19/2014 06:15:10 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+11/19/2014 06:15:10 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+11/19/2014 06:15:13 PM Info    : 
+11/19/2014 06:15:14 PM Info    : 
+11/19/2014 06:15:14 PM Info    : Starting Step 2: Checking for Files in Hold
+11/19/2014 06:15:21 PM Info    : Files found in: c:\ppol\hold
+11/19/2014 06:15:23 PM Info    : 	E01AC402.001	11/19/2014 6:14:57 PM	55800
+11/19/2014 06:15:26 PM Info    : 	E01AC403.001	11/19/2014 6:14:57 PM	55800
+11/19/2014 06:21:02 PM Info    : Starting PPOL Morning Checklist...
+11/19/2014 06:21:02 PM Info    : 
+11/19/2014 06:21:02 PM Info    : 
+11/19/2014 06:21:02 PM Info    : Starting Step 1: Checking for Daily Files
+11/19/2014 06:21:02 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+11/19/2014 06:21:02 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+11/19/2014 06:21:02 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+11/19/2014 06:21:02 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+11/19/2014 06:21:05 PM Info    : 
+11/19/2014 06:21:06 PM Info    : 
+11/19/2014 06:21:06 PM Info    : Starting Step 2: Checking for Files in Hold
+11/19/2014 06:21:08 PM Info    : Files found in: c:\ppol\hold
+11/19/2014 06:21:09 PM Info    : 	E01AC402.001	11/19/2014 6:14:57 PM	5 kb
+11/19/2014 06:21:11 PM Info    : 	E01AC403.001	11/19/2014 6:14:57 PM	5 kb
+11/19/2014 06:35:18 PM Info    : Starting PPOL Morning Checklist...
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : Starting Step 1: Checking for Daily Files
+11/19/2014 06:35:18 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+11/19/2014 06:35:18 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+11/19/2014 06:35:18 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+11/19/2014 06:35:18 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : Starting Step 2: Checking for Files in Hold
+11/19/2014 06:35:18 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+11/19/2014 06:35:18 PM Info    : 	E01AC402.001	11/19/2014 6:14:57 PM	5 kb
+11/19/2014 06:35:18 PM Info    : 	E01AC403.001	11/19/2014 6:14:57 PM	5 kb
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : Starting Step 3: Checking for Files in Incomming Cardholder
+11/19/2014 06:35:18 PM Info    : *** PROBLEM: Files found in: c:\ppol\incomming\Cardholder
+11/19/2014 06:35:18 PM Info    : 	E01AC402.001	11/19/2014 6:35:02 PM	5 kb
+11/19/2014 06:35:18 PM Info    : 	E01AC403.001	11/19/2014 6:35:02 PM	5 kb
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : Starting Step 4: Checking for Files in Incomming Payroll
+11/19/2014 06:35:18 PM Info    : *** PROBLEM: Files found in: c:\ppol\incomming\payroll
+11/19/2014 06:35:18 PM Info    : 	E01AC402.001	11/19/2014 6:35:11 PM	54 kb
+11/19/2014 06:35:18 PM Info    : 	E01AC403.001	11/19/2014 6:35:11 PM	54 kb
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+11/19/2014 06:35:18 PM Info    : Checking for files older than 1 hour(s).
+11/19/2014 06:35:18 PM Info    : 
+11/19/2014 06:35:18 PM Info    : *** Step 5 Complete.  No problems found. ***
+11/19/2014 06:35:18 PM Info    : Finished PPOL Morning Checklist.

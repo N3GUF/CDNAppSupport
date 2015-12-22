@@ -1,0 +1,684 @@
+02/09/2015 03:18:58 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:18:58 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:18:58 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:18:58 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:18:58 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:18:58 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:18:58 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:18:58 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:18:58 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:18:58 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:18:58 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:18:58 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:18:58 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:18:58 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:18:58 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:18:58 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:18:58 PM Info    : *** Step 8 Complete.  No problems found. ***
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : 
+02/09/2015 03:18:58 PM Info    : Starting Step 9: Checking for Current MDS files
+02/09/2015 03:18:58 PM Info    : *** Step 9 Complete.  No problems found. ***
+02/09/2015 03:18:58 PM Info    : Finished PPOL Morning Checklist.
+02/09/2015 03:19:54 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:19:57 PM Info    : 
+02/09/2015 03:19:57 PM Info    : 
+02/09/2015 03:19:57 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:19:57 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:19:57 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:19:57 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:19:57 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:19:58 PM Info    : 
+02/09/2015 03:19:58 PM Info    : 
+02/09/2015 03:19:58 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:19:58 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:19:58 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:19:58 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:20:01 PM Info    : 
+02/09/2015 03:20:01 PM Info    : 
+02/09/2015 03:20:01 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:20:01 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:20:01 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:20:01 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:20:02 PM Info    : 
+02/09/2015 03:20:02 PM Info    : 
+02/09/2015 03:20:02 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:20:02 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:20:02 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:20:02 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:20:06 PM Info    : 
+02/09/2015 03:20:06 PM Info    : 
+02/09/2015 03:20:06 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:20:06 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:20:06 PM Info    : 
+02/09/2015 03:20:06 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:20:08 PM Info    : 
+02/09/2015 03:20:08 PM Info    : 
+02/09/2015 03:20:08 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:20:08 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:20:27 PM Info    : 
+02/09/2015 03:20:28 PM Info    : 
+02/09/2015 03:20:29 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:21:03 PM Info    : *** Step 8 Complete.  No problems found. ***
+02/09/2015 03:21:03 PM Info    : 
+02/09/2015 03:21:03 PM Info    : 
+02/09/2015 03:21:03 PM Info    : Starting Step 9: Checking for Current MDS files
+02/09/2015 03:21:03 PM Info    : *** Step 9 Complete.  No problems found. ***
+02/09/2015 03:21:03 PM Info    : Finished PPOL Morning Checklist.
+02/09/2015 03:21:09 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:21:12 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:21:12 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:21:12 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:21:12 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:21:12 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:21:12 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:21:12 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:21:12 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:21:12 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:12 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:21:12 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:21:12 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:12 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:21:12 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:21:12 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:21:12 PM Info    : *** Step 8 Complete.  No problems found. ***
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : 
+02/09/2015 03:21:12 PM Info    : Starting Step 9: Checking for Current MDS files
+02/09/2015 03:21:12 PM Info    : *** Step 9 Complete.  No problems found. ***
+02/09/2015 03:21:12 PM Info    : Finished PPOL Morning Checklist.
+02/09/2015 03:21:17 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:21:20 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:21:20 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:21:20 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:21:20 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:21:20 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:21:20 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:21:20 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:21:20 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:21:20 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:20 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : 
+02/09/2015 03:21:20 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:21:20 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:21:20 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:20 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:21 PM Info    : 
+02/09/2015 03:21:21 PM Info    : 
+02/09/2015 03:21:21 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:21:21 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:21:21 PM Info    : 
+02/09/2015 03:21:21 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:21:22 PM Info    : 
+02/09/2015 03:21:22 PM Info    : 
+02/09/2015 03:21:22 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:21:22 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:21:23 PM Info    : 
+02/09/2015 03:21:23 PM Info    : 
+02/09/2015 03:21:23 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:21:23 PM Info    : *** Step 8 Complete.  No problems found. ***
+02/09/2015 03:21:55 PM Info    : 
+02/09/2015 03:21:55 PM Info    : 
+02/09/2015 03:21:55 PM Info    : Starting Step 9: Checking for Current MDS files
+02/09/2015 03:21:55 PM Info    : *** Step 9 Complete.  No problems found. ***
+02/09/2015 03:21:55 PM Info    : Finished PPOL Morning Checklist.
+02/09/2015 03:21:57 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:21:57 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:21:57 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:21:57 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:21:57 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:21:57 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:21:57 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:21:57 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:21:57 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:21:57 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:57 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:21:57 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:21:57 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:57 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:21:57 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : 
+02/09/2015 03:21:57 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:21:57 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:22:10 PM Info    : 
+02/09/2015 03:22:10 PM Info    : 
+02/09/2015 03:22:11 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:43:13 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:43:13 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:43:13 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:43:13 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:43:13 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:43:13 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:43:13 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:43:13 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:43:13 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:43:13 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:43:13 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:43:13 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:43:13 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157275 min. old
+02/09/2015 03:43:13 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157275 min. old
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:43:13 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : 
+02/09/2015 03:43:13 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:43:13 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:43:17 PM Info    : 
+02/09/2015 03:43:17 PM Info    : 
+02/09/2015 03:43:17 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:43:17 PM Info    : *** Step 8 Complete.  No problems found. ***
+02/09/2015 03:43:24 PM Info    : 
+02/09/2015 03:43:24 PM Info    : 
+02/09/2015 03:43:24 PM Info    : Starting Step 9: Checking for Current MDS files
+02/09/2015 03:43:24 PM Info    : *** Step 9 Complete.  No problems found. ***
+02/09/2015 03:43:24 PM Info    : Finished PPOL Morning Checklist.
+02/09/2015 03:43:29 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:43:29 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:43:29 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:43:29 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:43:29 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:43:29 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:43:29 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:43:29 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:43:29 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:43:29 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:43:29 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:43:29 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:43:29 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157275 min. old
+02/09/2015 03:43:29 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157275 min. old
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:43:29 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : 
+02/09/2015 03:43:29 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:43:29 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:45:01 PM Info    : 
+02/09/2015 03:45:01 PM Info    : 
+02/09/2015 03:45:01 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:45:01 PM Info    : *** Step 8 Complete.  No problems found. ***
+02/09/2015 03:45:01 PM Info    : 
+02/09/2015 03:45:01 PM Info    : 
+02/09/2015 03:45:01 PM Info    : Starting Step 9: Checking for Current MDS files
+02/09/2015 03:45:01 PM Info    : *** Step 9 Complete.  No problems found. ***
+02/09/2015 03:45:01 PM Info    : Finished PPOL Morning Checklist.
+02/09/2015 03:45:05 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:45:05 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:45:05 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:45:05 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:45:05 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:45:05 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:45:05 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:45:05 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:45:05 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:45:05 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:45:05 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:45:05 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:45:05 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157290 min. old
+02/09/2015 03:45:05 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157290 min. old
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:45:05 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : 
+02/09/2015 03:45:05 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:45:05 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:45:29 PM Info    : 
+02/09/2015 03:45:29 PM Info    : 
+02/09/2015 03:45:31 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:46:05 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 03:46:05 PM Info    : PPOL Morning Checklist has failed.
+02/09/2015 03:46:05 PM Critical: Exception Message: Could not find a part of the path 'W:\OWS_WORK\Data\Interchange\IPM_Inc'.
+02/09/2015 03:46:05 PM Critical: StackTrace:
+02/09/2015 03:46:05 PM Critical:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+02/09/2015 03:46:05 PM Critical:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+02/09/2015 03:46:05 PM Critical:    at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+02/09/2015 03:46:05 PM Critical:    at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+02/09/2015 03:46:05 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.checkIpmAndMdsFiles(Int32 problemsFound, List`1 files) in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 313
+02/09/2015 03:46:05 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.checkIpmFiles() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 277
+02/09/2015 03:46:05 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.Execute() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 32
+02/09/2015 03:46:05 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.Program.Main(String[] args) in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\Program.cs:line 34
+02/09/2015 03:46:12 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 03:46:12 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 03:46:12 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 03:46:12 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 03:46:12 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 03:46:12 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 03:46:12 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:46:12 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 03:46:12 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 03:46:12 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:46:12 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157260 min. old
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 03:46:12 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 03:46:12 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157290 min. old
+02/09/2015 03:46:12 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157290 min. old
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 03:46:12 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : 
+02/09/2015 03:46:12 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 03:46:12 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 03:46:26 PM Info    : 
+02/09/2015 03:46:27 PM Info    : 
+02/09/2015 03:46:27 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 03:46:36 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 06:26:48 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 06:26:48 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 06:26:48 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 06:26:48 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 06:26:48 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 06:26:48 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 06:26:48 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:26:48 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 06:26:48 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 06:26:48 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:26:48 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 06:26:48 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 06:26:48 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:26:48 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 06:26:48 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : 
+02/09/2015 06:26:48 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 06:26:48 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 06:26:57 PM Info    : 
+02/09/2015 06:26:57 PM Info    : 
+02/09/2015 06:26:57 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 06:26:57 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 06:29:33 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 06:29:33 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 06:29:33 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 06:29:33 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 06:29:33 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 06:29:33 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 06:29:33 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:29:33 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 06:29:33 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 06:29:33 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:29:33 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 06:29:33 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 06:29:33 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:29:33 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 06:29:33 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : 
+02/09/2015 06:29:33 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 06:29:33 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 06:29:36 PM Info    : 
+02/09/2015 06:29:36 PM Info    : 
+02/09/2015 06:29:36 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 06:29:36 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 06:30:59 PM Info    : Searching for XPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created on 2/2/2015 12:00:00 AM.
+02/09/2015 06:33:19 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 06:33:19 PM Info    : 
+02/09/2015 06:33:19 PM Info    : 
+02/09/2015 06:33:19 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 06:33:19 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 06:33:19 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 06:33:19 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 06:33:19 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 06:33:19 PM Info    : 
+02/09/2015 06:33:19 PM Info    : 
+02/09/2015 06:33:19 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 06:33:19 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 06:33:19 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:33:19 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:33:19 PM Info    : 
+02/09/2015 06:33:19 PM Info    : 
+02/09/2015 06:33:19 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 06:33:19 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 06:33:19 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:33:20 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:33:20 PM Info    : 
+02/09/2015 06:33:20 PM Info    : 
+02/09/2015 06:33:20 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 06:33:20 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 06:33:20 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157455 min. old
+02/09/2015 06:33:20 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157455 min. old
+02/09/2015 06:33:20 PM Info    : 
+02/09/2015 06:33:20 PM Info    : 
+02/09/2015 06:33:20 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 06:33:20 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 06:33:20 PM Info    : 
+02/09/2015 06:33:20 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 06:33:20 PM Info    : 
+02/09/2015 06:33:20 PM Info    : 
+02/09/2015 06:33:20 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 06:33:20 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 06:33:22 PM Info    : 
+02/09/2015 06:33:22 PM Info    : 
+02/09/2015 06:33:22 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 06:33:22 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 06:35:08 PM Info    : Searching for XPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created on 2/8/2015 12:00:00 AM.
+02/09/2015 06:36:38 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 06:36:38 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 06:36:38 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 06:36:38 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 06:36:38 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 06:36:38 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 06:36:38 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:36:38 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 06:36:38 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 06:36:38 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:36:38 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 06:36:38 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 06:36:38 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157455 min. old
+02/09/2015 06:36:38 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157455 min. old
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 06:36:38 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : 
+02/09/2015 06:36:38 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 06:36:38 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 06:36:40 PM Info    : 
+02/09/2015 06:36:40 PM Info    : 
+02/09/2015 06:36:40 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 06:36:40 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 06:44:08 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 06:44:08 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 06:44:08 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 06:44:08 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 06:44:08 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 06:44:08 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 06:44:08 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:44:08 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 06:44:08 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 06:44:08 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:44:08 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157440 min. old
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 06:44:08 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 06:44:08 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157455 min. old
+02/09/2015 06:44:08 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157455 min. old
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 06:44:08 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : 
+02/09/2015 06:44:08 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 06:44:08 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 06:44:11 PM Info    : 
+02/09/2015 06:44:11 PM Info    : 
+02/09/2015 06:44:11 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 06:44:11 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 08:02:06 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 08:02:06 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 08:02:06 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 08:02:06 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 08:02:06 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 08:02:06 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 08:02:06 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 08:02:06 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 08:02:06 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 08:02:06 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157500 min. old
+02/09/2015 08:02:06 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157500 min. old
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 08:02:06 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 08:02:06 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157545 min. old
+02/09/2015 08:02:06 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157545 min. old
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 08:02:06 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : 
+02/09/2015 08:02:06 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 08:02:06 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 08:02:08 PM Info    : 
+02/09/2015 08:02:08 PM Info    : 
+02/09/2015 08:02:08 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 08:02:09 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 08:02:12 PM Info    : Searching for XPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created on 2/8/2015 12:00:00 AM.
+02/09/2015 08:04:14 PM Info    : Starting PPOL Morning Checklist...
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : Starting Step 1: Checking for Daily Files
+02/09/2015 08:04:14 PM Info    : *** PROBLEM: c:\ppol\conf\log\CorpBalLog.txt was created at: 11/16/2014 6:45:00 AM. ***
+02/09/2015 08:04:14 PM Info    : *** PROBLEM: c:\ppolconf\log\invoice2Log.txt was not created. ***
+02/09/2015 08:04:14 PM Info    : *** PROBLEM: c:\ppol\conf\log\invoiceLog.txt was created at: 11/16/2014 9:38:35 AM. ***
+02/09/2015 08:04:14 PM Info    : *** PROBLEM: c:\ppol\conf\log\reportLog.txt was not created. ***
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : Starting Step 2: Checking for Files in Hold
+02/09/2015 08:04:14 PM Info    : *** PROBLEM: Files found in: c:\ppol\hold
+02/09/2015 08:04:14 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 08:04:14 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	99 min. old
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : Starting Step 3: Checking for Files in Incoming Cardholder
+02/09/2015 08:04:14 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\Cardholder
+02/09/2015 08:04:14 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157500 min. old
+02/09/2015 08:04:14 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157500 min. old
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : Starting Step 4: Checking for Files in Incoming Payroll
+02/09/2015 08:04:14 PM Info    : *** PROBLEM: Files found in: c:\ppol\incoming\payroll
+02/09/2015 08:04:14 PM Info    : 	E01AC402.001	10/23/2014 10:14:12 AM	5 kb	157545 min. old
+02/09/2015 08:04:14 PM Info    : 	E01AC403.001	10/23/2014 10:14:12 AM	5 kb	157545 min. old
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : Starting Step 5: Cleaning up: c:\ppol\inprocess
+02/09/2015 08:04:14 PM Info    : Checking for files older than 1 hour(s).
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : *** Step 5 Complete.  No problems found. ***
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : 
+02/09/2015 08:04:14 PM Info    : Starting Step 7: Checking for Current files in processed
+02/09/2015 08:04:14 PM Info    : *** Step 7 Complete.  No problems found. ***
+02/09/2015 08:04:15 PM Info    : 
+02/09/2015 08:04:15 PM Info    : 
+02/09/2015 08:04:15 PM Info    : Starting Step 8: Checking for Current IPM files
+02/09/2015 08:04:15 PM Info    : Searching for IPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created after 2/2/2015 12:00:00 AM.
+02/09/2015 08:04:18 PM Info    : Searching for XPM_TT112T0* in W:\OWS_WORK\Data\Interchange\IPM_Inc created on 2/8/2015 12:00:00 AM.

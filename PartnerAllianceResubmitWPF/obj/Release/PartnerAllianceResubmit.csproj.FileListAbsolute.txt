@@ -1,0 +1,14 @@
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmit.exe
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmit.pdb
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\bin\Release\PartnerAllianceResubmit.exe
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\bin\Release\PartnerAllianceResubmit.pdb
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\View\MainWindow.g.cs
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\App.g.cs
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmit_MarkupCompile.cache
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmit_MarkupCompile.lref
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\View\MainWindow.baml
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmit.g.resources
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmitWPF.Properties.Resources.resources
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmit.csproj.GenerateResource.Cache
+C:\Workspaces\CDNAppSupport\PartnerAllianceResubmitWPF\obj\Release\PartnerAllianceResubmit.csprojResolveAssemblyReference.cache

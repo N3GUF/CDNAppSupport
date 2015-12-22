@@ -1,0 +1,32 @@
+10/31/2014 08:46:24 PM Info    : Starting PPOL Morning Checklist...
+10/31/2014 08:46:24 PM Info    : PPOL Morning Checklist
+10/31/2014 08:46:24 PM Critical: Exception Message: doesn't exist.
+10/31/2014 08:46:24 PM Critical: StackTrace:
+10/31/2014 08:46:24 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.cleanupInprocess() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 25
+10/31/2014 08:46:24 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.Go() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 19
+10/31/2014 08:46:24 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.Program.Main(String[] args) in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\Program.cs:line 27
+10/31/2014 08:50:15 PM Info    : Starting PPOL Morning Checklist...
+10/31/2014 08:50:15 PM Info    : PPOL Morning Checklist
+10/31/2014 08:50:15 PM Critical: Exception Message: C;:\inprocessdoesn't exist.
+10/31/2014 08:50:15 PM Critical: StackTrace:
+10/31/2014 08:50:15 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.cleanupInprocess() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 25
+10/31/2014 08:50:15 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.Go() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 19
+10/31/2014 08:50:15 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.Program.Main(String[] args) in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\Program.cs:line 29
+10/31/2014 08:51:55 PM Info    : Starting PPOL Morning Checklist...
+10/31/2014 08:55:00 PM Info    : Starting PPOL Morning Checklist...
+10/31/2014 08:55:00 PM Info    : PPOL Morning Checklist has failed.
+10/31/2014 08:55:00 PM Critical: Exception Message: C;:\inprocess doesn't exist.
+10/31/2014 08:55:00 PM Critical: StackTrace:
+10/31/2014 08:55:00 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.cleanupInprocess() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 25
+10/31/2014 08:55:00 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.Go() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 19
+10/31/2014 08:55:00 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.Program.Main(String[] args) in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\Program.cs:line 29
+10/31/2014 08:57:00 PM Info    : Starting PPOL Morning Checklist...
+10/31/2014 08:57:00 PM Info    : PPOL Morning Checklist has failed.
+10/31/2014 08:57:00 PM Critical: Exception Message: C:\inprocess doesn't exist.
+10/31/2014 08:57:00 PM Critical: StackTrace:
+10/31/2014 08:57:00 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.cleanupInprocess() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 25
+10/31/2014 08:57:00 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.PPOLMorningChecklist.Go() in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\PPOLMorningChecklist.cs:line 19
+10/31/2014 08:57:00 PM Critical:    at Comdata.AppSupport.PPOLMorningChecklist.Program.Main(String[] args) in c:\Workspaces\CDNAppSupport\PPOLMorningChecklist\Program.cs:line 29
+10/31/2014 09:15:07 PM Info    : Starting PPOL Morning Checklist...
+10/31/2014 09:16:12 PM Info    : Starting PPOL Morning Checklist...
+10/31/2014 09:16:46 PM Info    : Starting PPOL Morning Checklist...

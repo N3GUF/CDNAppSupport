@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FileSystemCleanupSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LogPath>C:\Logs\FileSystemCleanup</LogPath>
+  <LoggingSeverityLevel>Debug</LoggingSeverityLevel>
+  <FoldersToCleanup>
+    <FolderSetting>
+      <Folder>C:\Users\dbernhardy\Downloads</Folder>
+      <ArchivePath>.\Archive</ArchivePath>
+      <IncludeSubfolders>false</IncludeSubfolders>
+      <ArchiveAfterDays>1</ArchiveAfterDays>
+      <CompressAfterDays>30</CompressAfterDays>
+      <DeleteAfterMonths>6</DeleteAfterMonths>
+      <DeleteEmptyFolders>true</DeleteEmptyFolders>
+      <Exclusions>
+        <string>test</string>
+      </Exclusions>
+    </FolderSetting>
+  </FoldersToCleanup>
+</FileSystemCleanupSettings>

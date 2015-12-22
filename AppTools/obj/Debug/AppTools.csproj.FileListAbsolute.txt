@@ -1,0 +1,4 @@
+C:\Workspaces\CDNAppSupport\AppTools\bin\Debug\AppTools.dll
+C:\Workspaces\CDNAppSupport\AppTools\bin\Debug\AppTools.pdb
+C:\Workspaces\CDNAppSupport\AppTools\obj\Debug\AppTools.dll
+C:\Workspaces\CDNAppSupport\AppTools\obj\Debug\AppTools.pdb
